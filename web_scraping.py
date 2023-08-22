@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 import time
-
 import pandas as pd
 
 def Database(Companies):
@@ -48,5 +47,5 @@ def Database(Companies):
     driver.quit()
 
 if __name__ == "__main__":
-    List_of_Companies = ['GOOG', 'AAPL', 'MSFT', 'TSLA', 'AMZN']
+    List_of_Companies = ['GOOG', 'NVDA', 'MSFT', 'META', 'AMZN', 'AI']
     Database(List_of_Companies)
