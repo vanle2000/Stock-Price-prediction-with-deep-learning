@@ -24,7 +24,7 @@ More specifically, I trained the stock price prediction in the [DeepFashion Attr
 ![AttributePrediction](deep-fashion-attribute-prediction.jpg)
 
 ## Code
-1. Phase I - EDA [preprocessing.py](): This code is used to pre-process the dataset.
+1. Phase I - EDA [acquisition-and-EDA.ipynb](acquisition-and-EDA.ipynb): This code is used to pre-process the dataset.
 2. Phase II - Prediction Model & Sentiment Analysis [hyper_parameters.py](): This code is used to define all hyper-parameters regarding training.
 3. Phase III - Autoencoder DL Content-based Filtering & Web App [fashion_input.py](): This code is used to pre-process the image further during training.
 
