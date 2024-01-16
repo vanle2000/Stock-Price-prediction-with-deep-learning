@@ -24,14 +24,14 @@ More specifically, I trained the stock price prediction in the [DeepFashion Attr
 ![AttributePrediction](deep-fashion-attribute-prediction.jpg)
 
 ## Code
-1. Phase I - EDA [preprocessing.py](https://github.com/khanhnamle1994/fashion-recommendation/blob/master/code/preprocessing.py): This code is used to pre-process the dataset.
-2. Phase II - Prediction Model & Sentiment Analysis [hyper_parameters.py](https://github.com/khanhnamle1994/fashion-recommendation/blob/master/code/hyper_parameters.py): This code is used to define all hyper-parameters regarding training.
-3. Phase III - Autoencoder DL Content-based Filtering & Web App [fashion_input.py](https://github.com/khanhnamle1994/fashion-recommendation/blob/master/code/fashion_input.py): This code is used to pre-process the image further during training.
+1. Phase I - EDA [preprocessing.py](): This code is used to pre-process the dataset.
+2. Phase II - Prediction Model & Sentiment Analysis [hyper_parameters.py](): This code is used to define all hyper-parameters regarding training.
+3. Phase III - Autoencoder DL Content-based Filtering & Web App [fashion_input.py](): This code is used to pre-process the image further during training.
 
 
 ## Stock Price Predictor
 
-![ModelPerformance](Assets/unnamed-2.png)
+![ModelPerformance](Assets/unnamed-3.png)
 
 
 ## Streamlit App 
