@@ -31,7 +31,5 @@ More specifically, I trained the stock price prediction in the [DeepFashion Attr
 ## Streamlit App 
 
 
+![UI](Assets/unnamed.png)
 
-![Romper](Assets/unnamed.png)
-
-2 - Jacket Category
