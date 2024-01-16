@@ -26,7 +26,3 @@ More specifically, I trained the stock price prediction in the [DeepFashion Attr
 2 - Jacket Category
 
 
-## Requirements
-- [TensorFlow](https://www.tensorflow.org/) latest version
-- [pandas](https://pandas.pydata.org/) latest version
-- [numpy](http://www.numpy.org/) latest version
