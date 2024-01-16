@@ -32,6 +32,6 @@ More specifically, I trained the stock price prediction in the [DeepFashion Attr
 
 
 
-![Romper](Assets/unname.png)
+![Romper](Assets/unnamed.png)
 
 2 - Jacket Category
