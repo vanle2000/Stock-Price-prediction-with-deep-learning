@@ -19,7 +19,6 @@ To enhance accessibility, the recommendation system is deployed through a web ap
 
 [Financial News](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests) which we used `raw_partner_headlines.csv` to directly-scraped raw news headlines. Columns go as follows: index, headline, URL, publisher, date, stock ticker. 
 
-More specifically, I trained the stock price prediction in the [DeepFashion Attribute Prediction](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) subset. It contains 289,222 number of clothes images, 50 number of clothing categories, and 1,000 number of clothing attributes. Each image is annotated by bounding box and clothing type.
 
 ![AttributePrediction](deep-fashion-attribute-prediction.jpg)
 
