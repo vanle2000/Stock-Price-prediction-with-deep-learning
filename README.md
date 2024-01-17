@@ -25,7 +25,7 @@ To enhance accessibility, the recommendation system is deployed through a web ap
 ## Code
 1. Phase I - EDA [acquisition-and-EDA.ipynb](acquisition-and-EDA.ipynb): This code is used to pre-process the dataset.
 2. Phase II - Prediction Model & Sentiment Analysis [model_stock_price_prediction.ipynb](model_stock_price_prediction.ipynb): This code is used to define all hyper-parameters regarding training.
-3. Phase III - Autoencoder DL Content-based Filtering & Web App [fashion_input.py](): This code is used to pre-process the image further during training.
+3. Phase III - Autoencoder DL Content-based Filtering & Web App [Stock_Recommendation_System.ipynb](Stock_Recommendation_System.ipynb): This code is used to pre-process the image further during training.
 
 
 ## Stock Price Predictor
